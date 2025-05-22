@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=gnome-terminal -- bash -c "/home/aaeon/.config/autostart/find_and_autoconnect.bash; exec bash"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Bluetooth Connect Script
+Comment=Connects Bluetooth device at login
+
